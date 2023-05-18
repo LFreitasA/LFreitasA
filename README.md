@@ -1,8 +1,11 @@
 ### Ola mundo! Meu nome é Leonardo Freitas 👋
 
-- 🔭 Hoje eu trabalho como analista de testes...
-- 🤓 Tenho conhecimento em React e Node.JS
-- 🌱 Estou estudando Java, Flutter...
+- 🔭 Sou fomardo em Analise e Desenvolvimento de sistemas, sempre atuei como analista de testes e estou me aventurando a ser programador...
+- Tenho certificação CTFL
+- Tenho um curso de desenvolvimento em Mobile pela cubos academy.
+- Tenho um curso de desenvolvimento com foco em back pela cubos academy.
+- 🤓 Tenho conhecimento em React, Flutter, Dart e Node.JS
+- 🌱 Estou estudando Java...
 -->
 <div align="center">
   <a href="https://github.com/LfreitasA">
